@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20261006-0455-Experimental"
+	Name="MacBook-Air-Egor-3.local"
+	Generator="ctest-4.4.4"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="21.0.0.21000334"
+	OSName="macOS"
+	Hostname="MacBook-Air-Egor-3.local"
+	OSRelease="27.2"
+	OSVersion="26B5086k"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0.000000"
+	>
+	<Testing>
+		<StartDateTime>Oct 06 17:36 +07</StartDateTime>
+		<StartTestTime>1791282964</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 06 17:36 +07</EndDateTime>
+		<EndTestTime>1791282964</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

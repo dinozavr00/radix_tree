@@ -1,0 +1,1 @@
+/usr/bin/clang++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/tests/test1.cpp.o -o tests  _deps/catch2-build/src/libCatch2Main.a libradix_tree.a _deps/catch2-build/src/libCatch2.a

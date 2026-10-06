@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/egorcemodanov/cpp/lab1/radix_tree/build/cmake_install.cmake",
+		"/Users/egorcemodanov/cpp/lab1/radix_tree/build/_deps/catch2-build/cmake_install.cmake",
+		"/Users/egorcemodanov/cpp/lab1/radix_tree/build/_deps/catch2-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
